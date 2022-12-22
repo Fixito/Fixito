@@ -5,7 +5,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studied Computer Science at University of Valeciennes.
+- 🎓 &nbsp; Studied Computer Science at University of Valenciennes.
 - 💼 &nbsp; Working as an independant web development former.
 - 🌱 &nbsp; Learning Express.js.
 

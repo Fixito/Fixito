@@ -6,8 +6,8 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studied Computer Science at University of Valenciennes.
-- 💼 &nbsp; Working as an independant web development former.
-- 🌱 &nbsp; Learning Express.js.
+- 💼 &nbsp; Working as an independant web development trainer.
+- 🌱 &nbsp; Learning Typescript and Prisma.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
